@@ -1,12 +1,12 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-const TabNavigationLayout = () => {
+const DashboardScreen = () => {
   return (
     <View>
-      <Text>TabNavigation</Text>
+      <Text>DashboardScreen</Text>
     </View>
   );
 };
 
-export default TabNavigationLayout;
+export default DashboardScreen;

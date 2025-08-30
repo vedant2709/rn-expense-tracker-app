@@ -1,12 +1,12 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-const TabNavigationLayout = () => {
+const ExpenseHistoryScreen = () => {
   return (
     <View>
-      <Text>TabNavigation</Text>
+      <Text>ExpenseHistoryScreen</Text>
     </View>
   );
 };
 
-export default TabNavigationLayout;
+export default ExpenseHistoryScreen;
